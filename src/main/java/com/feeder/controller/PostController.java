@@ -37,9 +37,6 @@ public class PostController {
 		
 	}
 	
-	//put update Category
-	
-	//delete delete Category
 	
 	
 	//Get by user
